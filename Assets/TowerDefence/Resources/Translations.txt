@@ -1,0 +1,168 @@
+﻿English☺Russian☻null☺Null☺Ашибачке☻InDevelopment☺In development☺В разработке☻Achievments☺Achievments☺Достижения☻Viking☺viking☺викинг☻Keel☺keel☺киль☻Island☺island☺остров☻Thor☺thor☺тор☻Odin☺odin☺один☻Shield☺shield☺щит☻Helmet☺helmet☺шлем☻Frida☺frida☺фрида☻Fjord☺fjord☺фьорд☻Saga☺saga☺сага☻Cove☺cove☺бухта☻Runes☺runes☺руны☻Marching☺marching☺поход☻Olaf☺olaf☺олаф☻Axe☺axe☺секира☻Sail☺sail☺парус☻Dragon☺dragon☺дракон☻Troll☺troll☺тролль☻Courage☺courage☺отвага☻Battle☺battle☺битва☻Word20Description☺Find word
+Battle☺Найдите слово
+Битва☻Gold100Description☺Collect 100
+Gold☺Соберите
+100 золота☻KillEnemies10Description☺Kill 10 
+enemies☺☻KillBosses10Description☺Kill 10 
+bosses☺☻Tower10Description☺Build 10 
+towers☺☻Gold500Description☺Earn 500 
+gold☺☻ObserveDescription☺Explore all 
+upgrades☺☻KillBosses25Description☺Kill 25 
+bosses☺☻KillEnemies100Description☺Kill 100
+enemies☺☻KillEnemies500Description☺Kill 500 
+enemies☺☻Towers50Description☺Build 50 
+towers☺☻Gold1000Description☺Earn 1000 
+gold☺☻Build500Description☺Build 500
+Towers☺Постройте
+500 башен☻Word17Description☺Find word
+Dragon☺Найдите слово
+Дракон☻Word16Description☺Find word
+Sail☺Найдите слово
+Парус☻Word15Description☺Find word
+Axe☺Найдите слово
+Секира☻Word14Description☺Find word
+Olaf☺Найдите слово
+Олаф☻Word13Description☺Find word
+Marching☺Найдите слово
+Поход☻Word12Description☺Find word
+Runes☺Найдите слово
+Руны☻Word11Description☺Find word
+Cove☺Найдите слово
+Бухта☻Word10Description☺Find word
+saga☺Найдите слово
+Сага☻Word9Description☺Find word
+Fjord☺Найдите слово
+Фьорд☻Word8Description☺Find word
+Frida☺Найдите слово
+Фрида☻Word7Description☺Find word
+Helmet☺Найдите слово
+Шлем☻Word6Description☺Find word
+Shield☺Найдите слово
+Щит☻Word5Description☺Find word
+Odin☺Найдите слово
+Один☻Word4Description☺Find word
+Thor☺Найдите слово
+Тор☻Word3Description☺Find word
+Island☺Найдите слово
+Остров☻Word2Description☺Find word
+Keel☺Найдите слово
+Киль☻Word1Description☺Find word
+Viking☺Найдите слово
+Викинг☻Standart6Description☺Collect 1000
+stone letters☺Соберите 1000
+простых букв☻Standart5Description☺Collect 500
+stone letters☺Соберите 500
+простых букв☻Standart4Description☺Collect 250
+stone letters☺Соберите 250
+простых букв☻Standart3Description☺Collect 100
+stone letters☺Соберите 100
+простых букв☻Standart2Description☺Collect 50
+stone letters☺Соберите 50
+простых букв☻Standart1Description☺Collect 25
+stone letters☺Соберите 25
+простых букв☻Ice7Description☺Collect 1000
+ice letters☺Соберите 1000
+ледяных букв☻Ice6Description☺Collect 500
+ice letters☺Соберите 500
+ледяных букв☻Ice5Description☺Collect 200
+ice letters☺Соберите 200
+ледяных букв☻Ice4Description☺Collect 100
+ice letters☺Соберите 100
+ледяных букв☻Ice3Description☺Collect 50
+ice letters☺Соберите 50
+ледяных букв☻Ice2Description☺Collect 20
+ice letters☺Соберите 20
+ледяных букв☻Ice1Description☺Collect 10
+ice letters☺Соберите 10
+ледяных букв☻Legend7Description☺Collect 1000
+legend letters☺Соберите 1000
+легендарных букв☻Legend6Description☺Collect 500
+legend letters☺Соберите 500
+легендарных букв☻Legend5Description☺Collect 200
+legend letters☺Соберите 200
+легендарных букв☻Legend4Description☺Collect 100
+legend letters☺Соберите 100
+легендарных букв☻Legend3Description☺Collect 50
+legend letters☺Соберите 50
+легендарных букв☻Legend2Description☺Collect 30
+legend letters☺Соберите 30
+легендарных букв☻Legend1Description☺Collect 15
+legend letters☺Соберите 15
+легендарных букв☻Stars1Description☺Collect 5
+stars☺Соберите 5
+звёзд☻Stars2Description☺Collect 25
+stars☺Соберите 25
+звёзд☻Stars3Description☺Collect 50
+stars☺Соберите 50
+звёзд☻Stars4Description☺Collect 100
+stars☺Соберите 100
+звёзд☻Stars5Description☺Collect 300
+stars☺Соберите 300
+звёзд☻Length1Description☺Find word
+with 4 letters☺Найдите слово
+из 4 букв☻Length2Description☺Find word
+with 5 letters☺Найдите слово
+из 5 букв☻Length3Description☺Find word
+with 6 letters☺Найдите слово
+из 6 букв☻Length4Description☺Find word
+with 7 letters☺Найдите слово
+из 7 букв☻Length5Description☺Find word
+with 8 letters☺Найдите слово
+из 8 букв☻Reward☺Reward☺Награда☻Record☺Record☺Рекорд☻Buy☺Buy☺Купить☻Options☺Options☺Опции☻Take☺Take☺Забрать☻Play☺Play☺Играть☻Cat☺cat☺кот☻AchievmentGot☺New achievment☺Открыто достижение☻Target☺Target☺Цель☻Castle1Name☺Goldens manor☺Поместье Голденов☻Castle2Name☺Sultan palace☺Дворец Султана☻Castle3Name☺Witch castle☺Замок ведьмы☻Castle4Name☺Mind palace☺Чертоги разума☻Castle5Name☺Scientist house☺Дом ученого☻Castle6Name☺Ancient monastery☺Древний монастырь☻Castle7Name☺Knowledge castle☺Замок знаний☻Castle8Name☺Athens pantheon☺Пантеон Афины☻Castle9Name☺Magic palace☺Дворец магии☻History☺History☺История☻Authors☺Authors☺Авторы☻Back☺Back☺Назад☻English☺English☺☻Russian☺☺Русский☻x☺x☺х☻Skill1BuyDescription☺Find
+word☺Найти
+слово☻Skill2BuyDescription☺Swap
+letters☺Смешать
+буквы☻Skill3BuyDescription☺Remove
+row☺Убрать
+ряд☻Moves☺Moves☺Ходов сделано☻BestWord☺Best Word☺Лучшее слово☻Level☺Level☺Уровень☻WithoutWords☺no words☺без слов☻ToLevels☺To levels☺К уровням☻Continue☺Continue☺Продолжить☻ToMap☺To map☺К карте☻ToMenu☺To menu☺В меню☻AuthorsTextTop☺Tracks used
+in the game:☺Композиции,
+использованные в игре:☻AcidFogItemBottomName☺Acid Fog☺Ядовитый
+туман☻FreezingItemBottomName☺Freezing☺Заморозка☻BombItemBottomName☺Bomb☺Бомба☻GoldItemBottomName☺Gold☺Золото☻HealItemBottomName☺Heal☺Пять
+жизней☻PowerItemBottomName☺Power☺Сила☻AcidFogItemName☺Acid Fog☺Ядовитый туман☻FreezingItemName☺Freezing☺Заморозка☻BombItemName☺Bomb☺Бомба☻GoldItemName☺Gold☺Золото☻HealItemName☺Heal☺Пять жизней☻PowerItemName☺Power☺Сила☻AcidFogItemDescription☺Slows movement of
+all the creeps in the
+affected area by 50☺Замедляет на 50%
+всех крипов
+в зоне поражения ☻FreezingItemDescription☺Freezes all the
+creeps on the map
+for 5 seconds☺Замораживает всех
+крипов на карте в
+течении 5 секунд☻BombItemDescription☺Deals 30 damage
+to all creeps in the
+affected area☺Наносит 30 урона
+всем крипам
+в зоне поражения☻GoldItemDescription☺You receive an
+additional 200 gold☺Вы получаете
+дополнительно 200 золота☻HealItemDescription☺You get five
+more lives☺Вы получаете пять
+дополнительных жизней☻PowerItemDescription☺For 10 seconds
+increases damage of
+all your towers☺На 10 секунд
+увеличивает урон всех
+ваших башен на 100%☻ChaoticSkillName☺Chaotic☺Хаотический☻CriticalSkillName☺Critical☺Критический☻FatalSkillName☺Fatal☺Фатальный☻Lazer20SkillName☺Lazer50☺Лазер20☻Lazer50SkillName☺Lazer50☺Лазер50☻LazerEffectSkillName☺LazerEffect☺Эффект лазера☻Lightning20SkillName☺Lightning20☺Молния20☻Lightning50SkillName☺Lightning50☺Молния50☻LightningDamageSkillName☺LightningDamage☺Урон молнии☻Magic20SkillName☺Magic20☺Магия20☻Magic50SkillName☺Magic50☺Магия50☻MagicAttackSpeedSkillName☺MagicAttackSpeed☺Скорость атаки магии☻UnitGoldSkillName☺UnitGold☺Золото☻UnitLifeSkillName☺UnitLife☺Здоровье☻UnitSlowSkillName☺UnitSlow☺Замедление☻ChaoticSkillDescription☺Can deal
+chaotic damage☺Может наносить
+хаотический урон☻CriticalSkillDescription☺Gives towers of
+this type a chance
+to deal critical
+hit x2 with
+probability 20☺Башни такого типа
+смогут наносить
+критический удар х2
+с вероятностью 20☻FatalSkillDescription☺Gives towers of
+this type a chance
+to deal double damage☺Башни такого типа
+смогут наносить
+критический удар х2☻Lazer20SkillDescription☺Decrease cost by 20☺Уменьшить стоимость на 20☻Lazer50SkillDescription☺Decrease cost by 50☺Уменьшить стоимость на 50☻LazerEffectSkillDescription☺Towers of this
+type attack speed
+increases by 20☺Скорость атаки башен
+такого типа
+возрастёт на 2☻Lightning20SkillDescription☺Decrease cost by 20☺Уменьшить стоимость на 20☻Lightning50SkillDescription☺Decrease cost by 50☺Уменьшить стоимость на 50☻LightningDamageSkillDescription☺Increases damage☺Увеличивает урон☻Magic20SkillDescription☺Decrease cost by 20☺Уменьшить стоимость на 20☻Magic50SkillDescription☺Decrease cost by 50☺Уменьшить стоимость на 50☻MagicAttackSpeedSkillDescription☺Towers of this
+type attack speed
+increases by 20☺Скорость атаки башен
+такого типа
+возрастёт на 20☻UnitGoldSkillDescription☺More gold
+for creep☺Больше золота
+за крипа☻UnitLifeSkillDescription☺You will receive an
+extra life for
+every 30 killed creep☺Вы будете получать
+дополнительную жизнь
+за каждого 30 убитого крипа☻UnitSlowSkillDescription☺Slow creeps☺Замедляет крипов☻

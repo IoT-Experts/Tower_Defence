@@ -1,0 +1,1 @@
+|Assassin|30|1|1|0|Asura|30|1|2|0|Asura2|30|1|2.5|0|DeathMaster|30|1|3|0|Duergar|30|1|4|0|Duergar2|30|1|4|0|Elephant|1|110|4|0

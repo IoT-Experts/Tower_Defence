@@ -1,0 +1,9 @@
+Tesla|☺Thor|☺LightningAttack☺LightningSkills|True|0.06115565☺1.89581|0.1100791☺-0.3057757
+Thor|☺Typhoon|☺LightningAttack☺LightningSkills|False|0.1345409☺1.871348|0.1590039☺-0.3057757
+Typhoon||☺LightningAttack☺LightningSkills|False|0.03669262☺1.504417|0.1590039☺-0.379162
+Mage|☺Aruma|☺MageAttack☺MagicSkills|True|-0.3791622☺1.920272|0.1834657☺-0.5503966
+Aruma|☺LifeStealer|☺MageAttack☺MagicSkills|False|0.01223087☺1.577803|0.1590039☺-0.4525481
+Thunder|☺Tornado|☺LazerAttack☺LazerSkills|True|0.06115565☺0.9662512|0.2079274☺-0.379162
+Tornado|☺Volcano|☺LazerAttack☺LazerSkills|False|0.06115565☺0.9417894|0.1345409☺-0.3546999
+Volcano||☺LazerAttack☺LazerSkills|False|0.06115565☺1.528879|0.1345409☺-0.3302378
+LifeStealer||☺MageAttack☺MagicSkills|False|0.06115565☺1.602265|0.1590039☺-0.3057757
